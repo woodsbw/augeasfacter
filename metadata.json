@@ -1,0 +1,11 @@
+{
+  "name": "stchas-homedirsfact",
+  "version": "0.1.0",
+  "author": "stchas",
+  "summary": "Camptocamp AugeasFacter Module.",
+  "license": "GNU GPLv3",
+  "source": "https://github.com/woodsbw/puppet-augeasfacter",
+  "project_page": "https://github.com/woodsbw/puppet-augeasfacter",
+  "issues_url": "https://github.com/woodsbw/puppet-augeasfacter"
+}
+
