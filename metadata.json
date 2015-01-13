@@ -6,6 +6,7 @@
   "license": "GNU GPLv3",
   "source": "https://github.com/woodsbw/puppet-augeasfacter",
   "project_page": "https://github.com/woodsbw/puppet-augeasfacter",
-  "issues_url": "https://github.com/woodsbw/puppet-augeasfacter"
+  "issues_url": "https://github.com/woodsbw/puppet-augeasfacter",
+  "dependencies": []
 }
 
