@@ -1,5 +1,5 @@
 require 'augeas'
-aug = Augeas::open(nil, nil, Augeas::NO_LOAD)
+aug = Augeas::open(nil, nil)
 
 def in_puppet?
   defined?(Puppet)
